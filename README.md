@@ -1,0 +1,1 @@
+# EarlyBuddy_Android_Pattern
